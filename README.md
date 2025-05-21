@@ -20,6 +20,33 @@
 
 ###
 
+<h2 align="left">Ongoing Projects</h2>
+
+###
+
+<ul align="left">
+  <li>
+    <strong><a href="https://beatmania.app" target="_blank">beatmania.app</a></strong><br>
+    Cloned from <a href="https://github.com/kuna/iidxranktable" target="_blank">kuna/iidxranktable</a> and refactored for compatibility with Python 3.xx. Added new features such as dark mode and LEGGENDARIA chart difficulties. Also fixed broken features including DJ RANK record tracking. Now publicly available as a live service.
+  </li>
+  <br>
+  <li>
+    <strong><a href="https://github.com/Coldlapse/PixelZoom" target="_blank">PixelZoom</a></strong> (Web Service and Article TBA)<br>
+    Developed an algorithm that enables scaling of pixel art without damaging its block structure, unlike standard integer-ratio scaling. Implemented a working zoom tool using OpenCV. Currently developing a web service with the <a href="https://github.com/PixelZoom-Team" target="_blank">PixelZoom-Team</a>, and preparing a research paper.
+  </li>
+  <br>
+  <li>
+    <strong><a href="https://github.com/Coldlapse/IIDXwidget" target="_blank">IIDXwidget</a></strong><br>
+    Developed an Electron app that runs a local server to replicate <a href="https://rag-oji.com/dakendisplay/" target="_blank">Rag's button input counter</a> for dual-PC streaming environments. The output can be integrated into OBS via a browser source.
+  </li>
+  <br>
+  <li>
+    Additionally, I have worked on several private projects through external freelance contracts.
+  </li>
+</ul>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
