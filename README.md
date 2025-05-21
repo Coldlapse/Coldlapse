@@ -14,7 +14,7 @@
   <strong>Started Programming:</strong> July 2017, with C, First project: <a href="https://github.com/Coldlapse/MyUpdate" target="_blank">MyUpdate</a><br>
   <strong>Affiliation:</strong> Undergraduate Researcher at <a href="http://hri.dongguk.edu/" target="_blank">Human-Robot Interaction Lab, Dongguk University</a><br>
   <strong>Who I Am:</strong> I consider myself a backend developer.<br>
-  <strong>Currently Learning:</strong> Training models using PyTorch, practicing algorithmic problem solving
+  <strong>Currently Learning:</strong> Training models using PyTorch, practicing algorithmic problem solving<br>
   <strong>Interests:</strong> Networking and server infrastructure. I’ve built and currently maintain several backend API servers running on a physical home server.
 </p>
 
