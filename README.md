@@ -15,6 +15,7 @@
   <strong>Affiliation:</strong> Undergraduate Researcher at <a href="http://hri.dongguk.edu/" target="_blank">Human-Robot Interaction Lab, Dongguk University</a><br>
   <strong>Who I Am:</strong> I consider myself a backend developer.<br>
   <strong>Currently Learning:</strong> Training models using PyTorch, practicing algorithmic problem solving
+  <strong>Interests:</strong> Networking and server infrastructure. I’ve built and currently maintain several backend API servers running on a physical home server.
 </p>
 
 ###
