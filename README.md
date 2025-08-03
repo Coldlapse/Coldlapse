@@ -62,6 +62,8 @@
   <img width="6" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" height="20" alt="opencv logo"  />
   <img width="6" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" height="20" alt="fastapi logo"  />
+  <img width="6" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="20" alt="nodejs logo"  />
   <img width="6" />
   <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge" height="20" alt="electron logo"  />
