@@ -47,6 +47,25 @@
 
 ###
 
+<h2 align="left">Finished Projects</h2>
+
+###
+
+<ul align="left">
+  <li>
+    <strong><a href="https://github.com/2025-OSS-Project" target="_blank">Geomemo</a></strong><br>
+    Contributed as a backend developer. Designed the backbone of the backend API, with a strong focus on privacy-related user experience features such as “visibility” and “access scope” settings. Later implemented the follow system to enhance user interactions.
+This project was also my first experience working in a structured collaboration environment with dedicated roles such as a platform/deployment manager, and practices like PR/issue workflows. I was able to see firsthand how systematic collaboration boosts both efficiency and productivity.
+  </li>
+  <br>
+  <li>
+    <strong><a href="https://github.com/Coldlapse/pill-bg-remover" target="_blank">pill-bg-remover</a></strong><br>
+    Developed as a module for a capstone design project. Fine-tuned the U²-Net model included in the <a href="https://github.com/danielgatis/rembg" target="_blank">rembg</a> library to build a preprocessor that isolates pills in photos by removing the background.
+  </li>
+</ul>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
