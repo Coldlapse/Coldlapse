@@ -62,6 +62,11 @@ This project was also my first experience working in a structured collaboration 
     <strong><a href="https://github.com/Coldlapse/pill-bg-remover" target="_blank">pill-bg-remover</a></strong><br>
     Developed as a module for a capstone design project. Fine-tuned the U²-Net model included in the <a href="https://github.com/danielgatis/rembg" target="_blank">rembg</a> library to build a preprocessor that isolates pills in photos by removing the background.
   </li>
+  <br>
+  <li>
+    <strong><a href="https://github.com/Coldlapse/HJ-QueueCounter" target="_blank">HJ-QueueCounter</a></strong><br>
+    Implemented a hardware and software system to monitor the number of users in the queue for arcade game machines. In collaboration with 'Hwajeong Game Land' in Goyang-si, South Korea, the custom-built solution was successfully deployed and operated on a beatmania IIDX Lightning Model cabinet.
+  </li>
 </ul>
 
 ###
@@ -88,19 +93,6 @@ This project was also my first experience working in a structured collaboration 
   <img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=for-the-badge" height="20" alt="electron logo"  />
   <img width="6" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="20" alt="pytorch logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coldlapse&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Coldlapse&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Coldlapse.Coldlapse&"  />
 </div>
 
 ###
