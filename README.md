@@ -36,11 +36,6 @@
   </li>
   <br>
   <li>
-    <strong><a href="https://github.com/Coldlapse/IIDXwidget" target="_blank">IIDXwidget</a></strong><br>
-    Developed an Electron app that runs a local server to replicate <a href="https://rag-oji.com/dakendisplay/" target="_blank">Rag's button input counter</a> for dual-PC streaming environments. The output can be integrated into OBS via a browser source.
-  </li>
-  <br>
-  <li>
     Additionally, I have worked on several private projects through external freelance contracts.
   </li>
 </ul>
@@ -61,6 +56,11 @@ This project was also my first experience working in a structured collaboration 
   <li>
     <strong><a href="https://github.com/Coldlapse/pill-bg-remover" target="_blank">pill-bg-remover</a></strong><br>
     Developed as a module for a capstone design project. Fine-tuned the U²-Net model included in the <a href="https://github.com/danielgatis/rembg" target="_blank">rembg</a> library to build a preprocessor that isolates pills in photos by removing the background.
+  </li>
+  <br>
+  <li>
+    <strong><a href="https://github.com/Coldlapse/IIDXwidget" target="_blank">IIDXwidget</a></strong><br>
+    Developed an Electron app that runs a local server to replicate <a href="https://rag-oji.com/dakendisplay/" target="_blank">Rag's button input counter</a> for dual-PC streaming environments. The output can be integrated into OBS via a browser source.
   </li>
   <br>
   <li>
@@ -96,3 +96,7 @@ This project was also my first experience working in a structured collaboration 
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Coldlapse.Coldlapse&"  />
+</div>
