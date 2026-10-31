@@ -85,6 +85,19 @@ This project was also my first experience working in a structured collaboration 
 
 ###
 
+<h2 align="left">Open Source Contributions</h2>
+
+###
+
+<ul align="left">
+  <li>
+    <strong><a href="https://github.com/kajiyajp/MDV" target="_blank">MDV</a></strong> (Markdown viewer for Windows 11 by kajiyajp, available on the Microsoft Store)<br>
+    Contributed Korean and English UI localization built on WinUI 3's standard resource files, so adding a language takes a single copied file, along with a translation template and unit tests that catch missing keys. Also fixed non-UTF-8 files always being read as Shift_JIS, so EUC-KR, GBK, and Big5 documents now open correctly. <strong>3 PRs merged</strong> (<a href="https://github.com/kajiyajp/MDV/pull/7" target="_blank">#7</a>, <a href="https://github.com/kajiyajp/MDV/pull/14" target="_blank">#14</a>, <a href="https://github.com/kajiyajp/MDV/pull/15" target="_blank">#15</a>) and credited in the app's About screen and README. Two more are under review: zoom shortcuts and menu fixes (<a href="https://github.com/kajiyajp/MDV/pull/24" target="_blank">#24</a>), and GitHub-style heading IDs so Korean and Japanese headings no longer collapse to <code>section</code> (<a href="https://github.com/kajiyajp/MDV/pull/25" target="_blank">#25</a>).
+  </li>
+</ul>
+
+###
+
 <h2 align="left">Freelance Work</h2>
 
 ###
